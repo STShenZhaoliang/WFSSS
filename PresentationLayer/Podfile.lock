@@ -1,0 +1,10 @@
+PODS:
+  - YUTableViewSwift (1.0)
+
+DEPENDENCIES:
+  - YUTableViewSwift (~> 1.0)
+
+SPEC CHECKSUMS:
+  YUTableViewSwift: b1d4d52780884ab978131b81b582393a7018dcc1
+
+COCOAPODS: 0.39.0

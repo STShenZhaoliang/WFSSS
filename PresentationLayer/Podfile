@@ -1,0 +1,5 @@
+platform :ios, '9.0'
+xcodeproj 'PresentationLayer.xcodeproj'
+use_frameworks!
+
+pod 'YUTableViewSwift', '~> 1.0'

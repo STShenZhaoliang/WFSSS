@@ -1,0 +1,6 @@
+framework module YUTableViewSwift {
+  umbrella header "YUTableViewSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
